@@ -5,3 +5,7 @@ const main = (a)=>{
   console.log(a*2)
 }
 main(4)
+const main1 = (a)=>{
+  console.log(a*2)
+}
+main1(4)
